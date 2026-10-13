@@ -15,16 +15,15 @@ I work with small-business financial data every day in Xero and QuickBooks Onlin
 
 ## 🛠️ Tools & platforms
 
-<!-- Update this list once you've finished your challenge -->
-- **Training platform:** [PLATFORM NAME] — [link to your public profile]
-- **Tools used:** [e.g. Wireshark, Splunk, Nmap — only list what you actually used]
+- **Training platform:** [TryHackMe](https://tryhackme.com) — hands-on defensive security rooms
+- **Tools used:** *Added as each room is completed*
 - **Business systems:** Xero, QuickBooks Online, Microsoft 365
 
 ## 📂 Projects
 
 | Project | Platform | Topic | Write-up |
 |---|---|---|---|
-| [Challenge / room name] | [Platform] | [e.g. Incident Response] | [Link — added on completion] |
+| Defensive security lab *(in progress)* | TryHackMe | Blue team | Write-up coming soon |
 
 ## 🎓 Education
 
