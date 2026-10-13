@@ -15,7 +15,7 @@ I work with small-business financial data every day in Xero and QuickBooks Onlin
 
 ## 🛠️ Tools & platforms
 
-- **Training platform:** [TryHackMe](https://tryhackme.com/p/sobeydesign) — hands-on defensive security rooms
+- **Training platform:** [TryHackMe](https://tryhackme.com/p/JoshuaFedUni) — hands-on defensive security rooms
 - **Techniques:** Email header analysis, sender spoofing detection, raw HTML/link analysis, URL expansion (WhereGoes), IOC defanging
 - **Business systems:** Xero, QuickBooks Online, Microsoft 365
 
