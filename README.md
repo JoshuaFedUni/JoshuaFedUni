@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 👋
 
-**Accountant & bookkeeper | Cybersecurity student | Ballarat, VIC**
+**Accountant  | Cybersecurity Student | Ballarat, VIC**
 
 I work with small-business financial data every day in Xero and QuickBooks Online, and I'm building practical cybersecurity skills to protect that kind of data. My interest sits where finance meets security: payment fraud, invoice and BEC scams, access control in accounting systems, and keeping client records safe.
 
