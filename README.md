@@ -16,14 +16,14 @@ I work with small-business financial data every day in Xero and QuickBooks Onlin
 ## 🛠️ Tools & platforms
 
 - **Training platform:** [TryHackMe](https://tryhackme.com) — hands-on defensive security rooms
-- **Tools used:** *Added as each room is completed*
+- **Techniques:** Email header analysis, sender spoofing detection, link and URL analysis
 - **Business systems:** Xero, QuickBooks Online, Microsoft 365
 
 ## 📂 Projects
 
 | Project | Platform | Topic | Write-up |
 |---|---|---|---|
-| Defensive security lab *(in progress)* | TryHackMe | Blue team | Write-up coming soon |
+| [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv) *(in progress)* | TryHackMe | Phishing analysis | Write-up coming soon |
 
 ## 🎓 Education
 
